@@ -39,9 +39,24 @@ To **elevate junior talent** through hands-on collaboration, mentorship, and pro
 ## 💬 Communication
 We use:
 - **GitHub Issues** and **Projects** to organize work
-- **Discord or Slack** (coming soon) for team chat
+- **Slack** (coming soon) for team chat
 
 ---
+
+## 🗂 Internal Workspace
+
+We use **Notion** as our central knowledge base and collaboration space for all internal documentation, onboarding, roadmaps, and more.
+
+📌 [Join the Elevinc Notion Teamspace](https://www.notion.so/team/1df91a57-b03a-8158-b878-00426967a478/join)
+
+This includes:
+- Contributor onboarding
+- Project roadmap templates
+- Mission & values
+- Task documentation
+
+---
+
 
 ## 🙌 Wall of Thanks
 See [`WALL_OF_THANKS.md`](WALL_OF_THANKS.md) for our amazing supporters!
