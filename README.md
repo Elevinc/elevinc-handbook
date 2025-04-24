@@ -39,7 +39,7 @@ To **elevate junior talent** through hands-on collaboration, mentorship, and pro
 ## 💬 Communication
 We use:
 - **GitHub Issues** and **Projects** to organize work
-- **Slack** (coming soon) for team chat
+- **Slack** for team chat
 
 ---
 
@@ -54,6 +54,17 @@ This includes:
 - Project roadmap templates
 - Mission & values
 - Task documentation
+
+
+---
+
+## 💬 Join the Team on Slack
+
+All communication and collaboration at Elevinc happens on Slack.
+
+📩 [Click here to join the Elevinc Slack Workspace](https://join.slack.com/t/elevinc/shared_invite/zt-34bx8b15e-H9cFdp0gf23X36osOnqS2g)
+
+Once inside, say hi in `#general` and let us know which role you're interested in! Our onboarding team will point you in the right direction.
 
 ---
 
