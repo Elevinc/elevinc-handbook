@@ -53,6 +53,25 @@ If Elevinc has helped you or someone you know, consider [supporting us on Patreo
 
 ---
 
+
+## 🏗️ Platform & Tool Stack
+
+To give contributors a real-world, collaborative experience, Elevinc uses the following platforms:
+
+| Purpose                  | Tool/Platform         |
+|--------------------------|------------------------|
+| 📚 Documentation & Wiki  | Notion                 |
+| 💬 Team Communication    | Slack                  |
+| 🧑‍💻 Code Hosting         | GitHub (Public Repos)   |
+| ✅ Task Management       | GitHub Projects         |
+| 🌐 Public Presence       | LinkedIn, GitHub Pages |
+| 💸 Community Support     | Patreon                |
+| 🧪 Project Environment   | Docker                 |
+
+These tools are all free and widely used in the industry — chosen to help our contributors build skills with confidence and credibility.
+
+---
+
 > 💡 This is just the beginning. You can help shape the future of Elevinc by contributing today.
 
 With you in code,
