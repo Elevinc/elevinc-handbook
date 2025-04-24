@@ -44,7 +44,7 @@ We use:
 ---
 
 ## 🙌 Wall of Thanks
-See [`THANKS.md`](THANKS.md) for our amazing supporters!
+See [`WALL_OF_THANKS.md`](WALL_OF_THANKS.md) for our amazing supporters!
 
 ---
 
